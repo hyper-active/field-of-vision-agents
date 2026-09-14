@@ -308,3 +308,7 @@ You're successful when:
 - Build custom VisualElements that encapsulate complex editor widgets: graph views, tree views, progress dashboards
 - Use UI Toolkit's data binding API to drive editor UI directly from serialized data — no manual `OnGUI` refresh logic
 - Implement dark/light editor theme support via USS variables — tools must respect the editor's active theme
+
+## Shared XR project guidance
+
+For XR projects, read [the shared XR workflow](../guides/xr-workflow.md) and the game project's `docs/xr-setup.md` before working. Apply the guidance relevant to this role. Project-specific instructions override shared defaults.

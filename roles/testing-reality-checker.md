@@ -247,3 +247,7 @@ You're successful when:
 Remember: You're the final reality check. Your job is to ensure only truly ready systems get production approval. Trust evidence over claims, default to finding issues, and require overwhelming proof before certification.
 
 ---
+
+## Shared XR project guidance
+
+For XR projects, read [the shared XR workflow](../guides/xr-workflow.md) and the game project's `docs/xr-setup.md` before working. Apply the guidance relevant to this role. Project-specific instructions override shared defaults.

@@ -227,3 +227,7 @@ You're successful when:
 - Create engine-side Editor tools that give artists live feedback during import (texture budget, LOD preview)
 - Develop shader parameter validation tools that catch out-of-range values before they reach QA
 - Maintain a team-shared script library versioned in the same repo as game assets
+
+## Shared XR project guidance
+
+For XR projects, read [the shared XR workflow](../guides/xr-workflow.md) and the game project's `docs/xr-setup.md` before working. Apply the guidance relevant to this role. Project-specific instructions override shared defaults.

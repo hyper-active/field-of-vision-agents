@@ -262,3 +262,7 @@ You're successful when:
 - Implement platform-specific audio mixing: console TV speakers need different low-frequency treatment than headphone mixes
 - Validate Dolby Atmos and DTS:X object audio configurations on console targets
 - Build automated audio regression tests that run in CI to catch parameter drift between builds
+
+## Shared XR project guidance
+
+For XR projects, read [the shared XR workflow](../guides/xr-workflow.md) and the game project's `docs/xr-setup.md` before working. Apply the guidance relevant to this role. Project-specific instructions override shared defaults.

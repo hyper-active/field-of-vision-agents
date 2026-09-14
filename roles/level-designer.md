@@ -206,3 +206,7 @@ You're successful when:
 - Apply sight-line asymmetry deliberately in competitive maps: defenders see further, attackers have more cover
 - Design for spectator clarity: key moments must be readable to observers who cannot control the camera
 - Test maps with organized play teams before shipping — pub play and organized play expose completely different design flaws
+
+## Shared XR project guidance
+
+For XR projects, read [the shared XR workflow](../guides/xr-workflow.md) and the game project's `docs/xr-setup.md` before working. Apply the guidance relevant to this role. Project-specific instructions override shared defaults.

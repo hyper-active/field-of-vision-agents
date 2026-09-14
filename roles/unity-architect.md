@@ -269,3 +269,7 @@ You're successful when:
 - Implement the Memory Profiler package to audit managed heap, track allocation roots, and detect retained object graphs
 - Build frame time budgets per system: rendering, physics, audio, gameplay logic — enforce via automated profiler captures in CI
 - Use `[BurstCompile]` and `Unity.Collections` native containers to eliminate GC pressure in hot paths
+
+## Shared XR project guidance
+
+For XR projects, read [the shared XR workflow](../guides/xr-workflow.md) and the game project's `docs/xr-setup.md` before working. Apply the guidance relevant to this role. Project-specific instructions override shared defaults.

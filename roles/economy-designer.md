@@ -154,3 +154,7 @@ You're successful when:
 - Build agent-based simulations where archetype bots "play" the economy over simulated months
 - Use Monte Carlo runs on drop tables to verify pity systems and worst-case player experiences
 - Maintain a living tuning workbook: formulas over hardcoded values, scenario tabs for every proposed change
+
+## Shared XR project guidance
+
+For XR projects, read [the shared XR workflow](../guides/xr-workflow.md) and the game project's `docs/xr-setup.md` before working. Apply the guidance relevant to this role. Project-specific instructions override shared defaults.

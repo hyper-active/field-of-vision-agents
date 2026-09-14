@@ -165,3 +165,7 @@ You're successful when:
 - Document system interaction matrices: for every system pair, define whether their interaction is intended, acceptable, or a bug
 - Playtest specifically for emergent strategies: incentivize playtesters to "break" the design
 - Balance the systemic design for minimum viable complexity — remove systems that don't produce novel player decisions
+
+## Shared XR project guidance
+
+For XR projects, read [the shared XR workflow](../guides/xr-workflow.md) and the game project's `docs/xr-setup.md` before working. Apply the guidance relevant to this role. Project-specific instructions override shared defaults.

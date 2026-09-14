@@ -241,3 +241,7 @@ You're successful when:
 - Build branching visualization tools that show the full conversation tree in a single view for editorial review
 - Implement dialogue telemetry: which branches do players choose most? Which lines are skipped? Use data to improve future writing
 - Design dialogue localization from day one: string externalization, gender-neutral fallbacks, cultural adaptation notes in dialogue metadata
+
+## Shared XR project guidance
+
+For XR projects, read [the shared XR workflow](../guides/xr-workflow.md) and the game project's `docs/xr-setup.md` before working. Apply the guidance relevant to this role. Project-specific instructions override shared defaults.
